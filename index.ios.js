@@ -1,7 +1,7 @@
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
- * @flo
+ * @flow
  */
 
 import React, { Component } from 'react';
